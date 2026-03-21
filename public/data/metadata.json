@@ -1,0 +1,26 @@
+{
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "book_title": "Meditations",
+      "chapter_title": "Book II",
+      "tags": "impermanence, discipline, perception, resilience, focus",
+      "content": "### Book II\n\nBegin each day by telling yourself: today I will meet with interference, ingratitude, insolence, disloyalty, ill-will, and selfishness — all of them due to the offenders' ignorance of what is good or evil. But for my part I have long perceived the nature of good and its nobility, the nature of evil and its meanness, and also the nature of the culprit himself, who is my brother; not in the physical sense, but as a fellow creature similarly endowed with reason and a share of the divine. Therefore none of those things can injure me, for nobody can implicate me in what is degrading."
+    },
+    {
+      "chunk_id": 1,
+      "book_title": "Meditations",
+      "chapter_title": "Book IV",
+      "tags": "change, time, perspective, mortality, acceptance",
+      "content": "### Book IV\n\nIf you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment. Consider how all things swiftly pass away and are no more — the works of nature and the works of man. The substance of the universe is mutable. All things are change; and yet from change nothing new comes into being."
+    },
+    {
+      "chunk_id": 2,
+      "book_title": "Essays",
+      "chapter_title": "On Solitude",
+      "tags": "solitude, independence, self-knowledge, retreat, freedom",
+      "content": "### On Solitude\n\nWe must reserve a back shop all our own, entirely free, in which we establish our real liberty and our principal retreat and solitude. Here our ordinary conversation must be between us and ourselves, and so private that no outside association or communication can find a place."
+    }
+  ]
+}

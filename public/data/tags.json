@@ -1,0 +1,20 @@
+{
+  "total_tags": 10,
+  "tags": [
+    { "tag": "acceptance", "count": 1 },
+    { "tag": "change", "count": 1 },
+    { "tag": "discipline", "count": 1 },
+    { "tag": "focus", "count": 1 },
+    { "tag": "freedom", "count": 1 },
+    { "tag": "impermanence", "count": 1 },
+    { "tag": "independence", "count": 1 },
+    { "tag": "mortality", "count": 1 },
+    { "tag": "perception", "count": 1 },
+    { "tag": "perspective", "count": 1 },
+    { "tag": "resilience", "count": 1 },
+    { "tag": "retreat", "count": 1 },
+    { "tag": "self-knowledge", "count": 1 },
+    { "tag": "solitude", "count": 1 },
+    { "tag": "time", "count": 1 }
+  ]
+}
