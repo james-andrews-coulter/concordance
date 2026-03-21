@@ -6,6 +6,16 @@ Shelf is a personal search engine for books and essays. Drop in an EPUB, and the
 
 ---
 
+## Why
+
+I read a lot of essays — philosophy, psychology, spirituality — and when a life question hits, I mine my library for relevant chapters to build a kind of *reading playlist*: a curated set of passages I can listen to via iPhone screen reader while at the gym, cleaning the house, or staring out a plane window.
+
+The problem was sourcing. A hundred books, twenty chapters each, and titles rarely tell you what's inside. I wanted a catalog-wide index — one search across everything I've ever read — so I could go from question to curated study in seconds instead of hours.
+
+Something I didn't expect to learn: **insight without inquiry is a sugary statistic.** The answers you find are only as good as the questions you ask yourself. Building the search engine was the easy part. Learning to stop and ask what I actually needed to know — that was the real work.
+
+Shelf runs entirely client-side. No server, no subscription, no API key. The only backend is your laptop during the one-time book import.
+
 ## How it works
 
 ```
