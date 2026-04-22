@@ -1,8 +1,8 @@
-# Shelf
+# concordance
 
 Turn any EPUB into a searchable, offline-first web library — deployed free on GitHub Pages.
 
-Shelf is a personal search engine for books and essays. Drop in an EPUB, and the CLI extracts chapters, generates semantic tags with a local LLM, and builds a static site you can search from anywhere — even without an internet connection.
+concordance is a personal search engine for books and essays. Drop in an EPUB, and the CLI extracts chapters, generates semantic tags with a local LLM, and builds a static site you can search from anywhere — even without an internet connection.
 
 ---
 
@@ -14,7 +14,7 @@ The problem was sourcing. A hundred books, twenty chapters each, and titles rare
 
 Something I didn't expect to learn: **insight without inquiry is a sugary statistic.** The answers you find are only as good as the questions you ask yourself. Building the search engine was the easy part. Learning to stop and ask what I actually needed to know — that was the real work.
 
-Shelf runs entirely client-side. No server, no subscription, no API key. The only backend is your laptop during the one-time book import.
+concordance runs entirely client-side. No server, no subscription, no API key. The only backend is your laptop during the one-time book import.
 
 ## How it works
 
@@ -39,7 +39,7 @@ EPUB → Markdown → Semantic chunks → AI tags → Static JSON → Client-sid
 ### Setup
 
 ```bash
-git clone https://github.com/<you>/shelf.git && cd shelf
+git clone https://github.com/<you>/concordance.git && cd concordance
 ./setup.sh      # Creates venv, installs Python deps
 npm install     # Installs Node deps
 ```
@@ -70,7 +70,7 @@ Push to GitHub with Pages enabled. The included workflow builds and deploys auto
 ## Architecture
 
 ```
-shelf/
+concordance/
 ├── lib                      # CLI entry point (bash)
 ├── process_book.py          # EPUB → chunks → tags pipeline
 ├── setup.sh                 # One-command environment setup
